@@ -1,5 +1,6 @@
 # whatsapp-stalker-chrome-extension
 A google chrome  extension to track when people came online and went offline on WhatsApp
+Don't worry! It won't steal your chats. I'm a good person :p
 ## Steps to Install:
   - [download](https://github.com/utkarsh914/whatsapp-stalker-chrome-extension/archive/master.zip) this repository as zip and extract.
   - After extracting, you'll get a folder named 'whatsapp-stalker-chrome-extension.
