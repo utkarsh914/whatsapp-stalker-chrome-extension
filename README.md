@@ -7,4 +7,7 @@ A google chrome  extension to track when people came online and went offline on 
   - Make sure developer mode is turned ON.
   - Click 'Load unpacked' (UI may differ based on the browser) and select the extracted folder.
   
-![screenshot](https://i.ibb.co/HThP3Zf/Screenshot-103.png)
+  ![screenshot](https://i.ibb.co/HThP3Zf/Screenshot-103.png)
+  
+  - Open whatsapp web and click extension icon.
+  - Click 'Start' to start logging.
