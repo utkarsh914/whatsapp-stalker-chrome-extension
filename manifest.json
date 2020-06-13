@@ -1,0 +1,27 @@
+  {
+    "name": "WhatsApp Stalker",
+    "version": "0.1",
+    "description": "A google chrome  extension to track when people came online and went offline on WhatsApp!",
+    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "background": {
+      "scripts": ["background.js"],
+      "persistent": false
+    },
+    "page_action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "images/icon_16.png",
+        "32": "images/icon_32.png",
+        "48": "images/icon_48.png",
+        "128": "images/icon_128.png"
+      }
+    },
+    "options_page": "options.html",
+    "icons": {
+      "16": "images/icon_16.png",
+      "32": "images/icon_32.png",
+      "48": "images/icon_48.png",
+      "128": "images/icon_128.png"
+    },
+    "manifest_version": 2
+  }
