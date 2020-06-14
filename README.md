@@ -3,7 +3,7 @@ A google chrome  extension to track when people came online and went offline on 
 Don't worry! It won't steal your chats. I'm a good person :p
 ## What it does:
   - gives two buttons to download log as csv and to toggle stalking process in the header.
-  - Open the person's chat and leave the tab open for as long as you want. It will log whenever person comes online or goes offline along with the online duration.
+  - Open the person's chat and leave the tab open for as long as you want. You may continue your work on other tabs, or minimize the browser. It will log whenever person comes online or goes offline along with the online duration.
   - Log will be shown on the console and can also be downloaded as csv.
   - <b>PS: Allow whatsApp web's notifications to receive a notification whenever target's status changes</b>
 ## Steps to Install:
